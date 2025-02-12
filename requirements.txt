@@ -1,4 +1,4 @@
-git+https://github.com/doevent/Real-ESRGAN.git
+# git+https://github.com/doevent/Real-ESRGAN.git
 opencv-python
 diffusers
 torch
@@ -10,5 +10,4 @@ safetensors
 peft==0.9.0
 pillow
 torchsde
-opencv-contrib-python
 numpy
